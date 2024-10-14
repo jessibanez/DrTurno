@@ -1,0 +1,2628 @@
+# depslib dependency file v1.0
+1715382027 source:c:\users\jesica\desktop\utn\2024 labo ii\drturno\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1715899511 c:\users\jesica\desktop\utn\2024 labo ii\drturno\fecha.h
+	<string>
+
+1584205420 source:c:\users\jesica\desktop\utn\2024 labo ii\drturno\main.cpp
+	<iostream>
+
+1715897151 source:c:\users\jesica\desktop\utn\2024 labo ii\drturno\paciente.cpp
+
+1715898631 source:c:\users\jesica\desktop\utn\2024 labo ii\drturno\usuario.cpp
+	<cstring>
+	"Usuario.h"
+
+1715899511 c:\users\jesica\desktop\utn\2024 labo ii\drturno\usuario.h
+	<cstring>
+	"Fecha.h"
+
+1715382027 source:c:\users\jesica\desktop\utn\2024 labo ii\drturno\drturno\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1716153393 c:\users\jesica\desktop\utn\2024 labo ii\drturno\drturno\fecha.h
+	<string>
+
+1584205420 source:c:\users\jesica\desktop\utn\2024 labo ii\drturno\drturno\main.cpp
+	<iostream>
+
+1715897151 source:c:\users\jesica\desktop\utn\2024 labo ii\drturno\drturno\paciente.cpp
+
+1715898631 source:c:\users\jesica\desktop\utn\2024 labo ii\drturno\drturno\usuario.cpp
+	<cstring>
+	"Usuario.h"
+
+1716153519 c:\users\jesica\desktop\utn\2024 labo ii\drturno\drturno\usuario.h
+	<cstring>
+	"Fecha.h"
+
+1716327321 source:c:\users\jesica\desktop\utn\2024 labo ii\drturno\drturno\drturno\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1716327321 c:\users\jesica\desktop\utn\2024 labo ii\drturno\drturno\drturno\fecha.h
+	<string>
+
+1719364836 source:c:\users\jesica\desktop\utn\2024 labo ii\drturno\drturno\drturno\main.cpp
+	<iostream>
+	<cstring>
+	<cctype>
+	<windows.h>
+	<cstdlib>
+	"Paciente.h"
+	"PacienteManager.h"
+	"Globales.h"
+	"PacienteArchivo.h"
+	"Administrador.h"
+
+1719180627 source:c:\users\jesica\desktop\utn\2024 labo ii\drturno\drturno\drturno\paciente.cpp
+	<cstring>
+	<iostream>
+	<regex>
+	"Paciente.h"
+
+1719180534 c:\users\jesica\desktop\utn\2024 labo ii\drturno\drturno\drturno\paciente.h
+	"Usuario.h"
+
+1719352996 c:\users\jesica\desktop\utn\2024 labo ii\drturno\drturno\drturno\usuario.h
+	<string>
+	"Fecha.h"
+
+1719087975 c:\users\jesica\desktop\utn\2024 labo ii\drturno\drturno\drturno\domicilio.h
+	<string>
+
+1719501184 source:c:\users\jesica\desktop\utn\2024 labo ii\drturno\drturno\drturno\usuario.cpp
+	"Usuario.h"
+	<cstring>
+	<iostream>
+
+1719503189 source:c:\users\jesica\desktop\utn\2024 labo ii\drturno\drturno\drturno\atencion.cpp
+	"atencion.h"
+	<iostream>
+	<sstream>
+	<string>
+
+1719500457 c:\users\jesica\desktop\utn\2024 labo ii\drturno\drturno\drturno\atencion.h
+	<string>
+
+1719174093 source:c:\users\jesica\desktop\utn\2024 labo ii\drturno\drturno\drturno\domicilio.cpp
+	<cstring>
+	<iostream>
+	"Domicilio.h"
+
+1719507718 source:c:\users\jesica\desktop\utn\2024 labo ii\drturno\drturno\drturno\profesional.cpp
+	<iostream>
+	<cstring>
+	"profesional.h"
+	"Globales.h"
+
+1719507254 c:\users\jesica\desktop\utn\2024 labo ii\drturno\drturno\drturno\profesional.h
+	<string>
+	"Usuario.h"
+	"atencion.h"
+
+1719174149 source:c:\users\jesica\desktop\utn\2024 labo ii\drturno\drturno\drturno\pacientearchivo.cpp
+	"PacienteArchivo.h"
+	<cstdio>
+
+1719174093 c:\users\jesica\desktop\utn\2024 labo ii\drturno\drturno\drturno\pacientearchivo.h
+	<string>
+	<cstdio>
+	"Paciente.h"
+
+1719454573 source:c:\users\jesica\desktop\utn\2024 labo ii\drturno\drturno\drturno\pacientemanager.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<limits>
+	"PacienteManager.h"
+	"Paciente.h"
+	"PacienteArchivo.h"
+
+1719454356 c:\users\jesica\desktop\utn\2024 labo ii\drturno\drturno\drturno\pacientemanager.h
+	"PacienteArchivo.h"
+
+1719504830 source:c:\users\jesica\desktop\utn\2024 labo ii\drturno\drturno\drturno\profesionalarchivo.cpp
+	"ProfesionalArchivo.h"
+	<cstdio>
+
+1719443213 c:\users\jesica\desktop\utn\2024 labo ii\drturno\drturno\drturno\profesionalarchivo.h
+	<string>
+	<cstdio>
+	"Profesional.h"
+
+1719365047 source:c:\users\jesica\desktop\utn\2024 labo ii\drturno\drturno\drturno\administrador.cpp
+	"Administrador.h"
+	<cstring>
+	<iostream>
+
+1719354863 c:\users\jesica\desktop\utn\2024 labo ii\drturno\drturno\drturno\administrador.h
+	<string>
+
+1719505712 source:c:\users\jesica\desktop\utn\2024 labo ii\drturno\drturno\drturno\globales.cpp
+	<iostream>
+	<cstring>
+	<string>
+	"Globales.h"
+	"PacienteManager.h"
+	"AdministradorManager.h"
+
+1719448737 c:\users\jesica\desktop\utn\2024 labo ii\drturno\drturno\drturno\globales.h
+	<cstring>
+	"Paciente.h"
+	"PacienteArchivo.h"
+	"Administrador.h"
+
+1719460784 c:\users\jesica\desktop\utn\2024 labo ii\drturno\drturno\drturno\administradormanager.h
+	"Administrador.h"
+	"PacienteArchivo.h"
+	"ProfesionalArchivo.h"
+
+1719505262 source:c:\users\jesica\desktop\utn\2024 labo ii\drturno\drturno\drturno\administradormanager.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<limits>
+	"Administrador.h"
+	"AdministradorManager.h"
+	"PacienteManager.h"
+	"PacienteArchivo.h"
+	"Paciente.h"
+	"profesional.h"
+	"ProfesionalArchivo.h"
+	"atencion.h"
+	"Globales.h"
+
+1719507383 source:c:\users\jesica\desktop\utn\2024 labo ii\drturno\drturno\drturno\turnos.cpp
+	"Turnos.h"
+	<cstring>
+	<iostream>
+
+1719357777 c:\users\jesica\desktop\utn\2024 labo ii\drturno\drturno\drturno\turnos.h
+	"ProfesionalArchivo.h"
+	<cstdio>
+
+1719365047 source:c:\users\jesica\desktop\drturno\administrador.cpp
+	"Administrador.h"
+	<cstring>
+	<iostream>
+
+1719354863 c:\users\jesica\desktop\drturno\administrador.h
+	<string>
+
+1719874913 source:c:\users\jesica\desktop\drturno\administradormanager.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<limits>
+	"Administrador.h"
+	"AdministradorManager.h"
+	"PacienteManager.h"
+	"PacienteArchivo.h"
+	"Paciente.h"
+	"profesional.h"
+	"ProfesionalArchivo.h"
+	"atencion.h"
+	"Globales.h"
+	"Horarios.h"
+	"HorariosArchivo.h"
+
+1719541754 c:\users\jesica\desktop\drturno\administradormanager.h
+	"Administrador.h"
+	"PacienteArchivo.h"
+	"ProfesionalArchivo.h"
+
+1719174093 c:\users\jesica\desktop\drturno\pacientearchivo.h
+	<string>
+	<cstdio>
+	"Paciente.h"
+
+1719180534 c:\users\jesica\desktop\drturno\paciente.h
+	"Usuario.h"
+
+1719352996 c:\users\jesica\desktop\drturno\usuario.h
+	<string>
+	"Fecha.h"
+
+1716327321 c:\users\jesica\desktop\drturno\fecha.h
+	<string>
+
+1719880422 c:\users\jesica\desktop\drturno\profesionalarchivo.h
+	<string>
+	<cstdio>
+	"Profesional.h"
+
+1719542156 c:\users\jesica\desktop\drturno\profesional.h
+	<string>
+	"Usuario.h"
+
+1719500457 c:\users\jesica\desktop\drturno\atencion.h
+	<string>
+
+1719877468 c:\users\jesica\desktop\drturno\pacientemanager.h
+	"PacienteArchivo.h"
+
+1719874296 c:\users\jesica\desktop\drturno\globales.h
+	<cstring>
+	"Paciente.h"
+	"PacienteArchivo.h"
+	"Administrador.h"
+
+1719503189 source:c:\users\jesica\desktop\drturno\atencion.cpp
+	"atencion.h"
+	<iostream>
+	<sstream>
+	<string>
+
+1716327321 source:c:\users\jesica\desktop\drturno\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1719874913 source:c:\users\jesica\desktop\drturno\globales.cpp
+	<iostream>
+	<cstring>
+	<string>
+	<vector>
+	<utility>
+	"Globales.h"
+	"PacienteManager.h"
+	"AdministradorManager.h"
+
+1719364836 source:c:\users\jesica\desktop\drturno\main.cpp
+	<iostream>
+	<cstring>
+	<cctype>
+	<windows.h>
+	<cstdlib>
+	"Paciente.h"
+	"PacienteManager.h"
+	"Globales.h"
+	"PacienteArchivo.h"
+	"Administrador.h"
+
+1719180627 source:c:\users\jesica\desktop\drturno\paciente.cpp
+	<cstring>
+	<iostream>
+	<regex>
+	"Paciente.h"
+
+1719174149 source:c:\users\jesica\desktop\drturno\pacientearchivo.cpp
+	"PacienteArchivo.h"
+	<cstdio>
+
+1719885255 source:c:\users\jesica\desktop\drturno\pacientemanager.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<limits>
+	<utility>
+	"Globales.h"
+	"PacienteManager.h"
+	"Paciente.h"
+	"PacienteArchivo.h"
+	"ProfesionalArchivo.h"
+	"profesional.h"
+
+1719542156 source:c:\users\jesica\desktop\drturno\profesional.cpp
+	<iostream>
+	<cstring>
+	"profesional.h"
+	"Globales.h"
+
+1719880422 source:c:\users\jesica\desktop\drturno\profesionalarchivo.cpp
+	"ProfesionalArchivo.h"
+	<cstdio>
+
+1719525799 source:c:\users\jesica\desktop\drturno\turnos.cpp
+	"Turnos.h"
+	<cstring>
+	<iostream>
+
+1719357777 c:\users\jesica\desktop\drturno\turnos.h
+	"ProfesionalArchivo.h"
+	<cstdio>
+
+1719621235 source:c:\users\jesica\desktop\drturno\usuario.cpp
+	"Usuario.h"
+	<cstring>
+	<iostream>
+
+1719872475 source:c:\users\jesica\desktop\drturno\horarios.cpp
+	<iostream>
+	<cstring>
+	"Horarios.h"
+
+1719871718 c:\users\jesica\desktop\drturno\horarios.h
+
+1719535320 source:c:\users\jesica\desktop\drturno\horariosarchivo.cpp
+	"HorariosArchivo.h"
+	<cstdio>
+
+1719535064 c:\users\jesica\desktop\drturno\horariosarchivo.h
+	<string>
+	<cstdio>
+	"Horarios.h"
+
+1719365047 source:c:\users\win10\downloads\drturnoultimo\drturno\administrador.cpp
+	"Administrador.h"
+	<cstring>
+	<iostream>
+
+1719354863 c:\users\win10\downloads\drturnoultimo\drturno\administrador.h
+	<string>
+
+1719874913 source:c:\users\win10\downloads\drturnoultimo\drturno\administradormanager.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<limits>
+	"Administrador.h"
+	"AdministradorManager.h"
+	"PacienteManager.h"
+	"PacienteArchivo.h"
+	"Paciente.h"
+	"profesional.h"
+	"ProfesionalArchivo.h"
+	"atencion.h"
+	"Globales.h"
+	"Horarios.h"
+	"HorariosArchivo.h"
+
+1719541754 c:\users\win10\downloads\drturnoultimo\drturno\administradormanager.h
+	"Administrador.h"
+	"PacienteArchivo.h"
+	"ProfesionalArchivo.h"
+
+1719174093 c:\users\win10\downloads\drturnoultimo\drturno\pacientearchivo.h
+	<string>
+	<cstdio>
+	"Paciente.h"
+
+1719180534 c:\users\win10\downloads\drturnoultimo\drturno\paciente.h
+	"Usuario.h"
+
+1719352996 c:\users\win10\downloads\drturnoultimo\drturno\usuario.h
+	<string>
+	"Fecha.h"
+
+1716327321 c:\users\win10\downloads\drturnoultimo\drturno\fecha.h
+	<string>
+
+1719880422 c:\users\win10\downloads\drturnoultimo\drturno\profesionalarchivo.h
+	<string>
+	<cstdio>
+	"Profesional.h"
+
+1719542156 c:\users\win10\downloads\drturnoultimo\drturno\profesional.h
+	<string>
+	"Usuario.h"
+
+1719877468 c:\users\win10\downloads\drturnoultimo\drturno\pacientemanager.h
+	"PacienteArchivo.h"
+
+1719500457 c:\users\win10\downloads\drturnoultimo\drturno\atencion.h
+	<string>
+
+1719874296 c:\users\win10\downloads\drturnoultimo\drturno\globales.h
+	<cstring>
+	"Paciente.h"
+	"PacienteArchivo.h"
+	"Administrador.h"
+
+1719871718 c:\users\win10\downloads\drturnoultimo\drturno\horarios.h
+
+1719535064 c:\users\win10\downloads\drturnoultimo\drturno\horariosarchivo.h
+	<string>
+	<cstdio>
+	"Horarios.h"
+
+1716327321 source:c:\users\win10\downloads\drturnoultimo\drturno\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1719874913 source:c:\users\win10\downloads\drturnoultimo\drturno\globales.cpp
+	<iostream>
+	<cstring>
+	<string>
+	<vector>
+	<utility>
+	"Globales.h"
+	"PacienteManager.h"
+	"AdministradorManager.h"
+
+1719872475 source:c:\users\win10\downloads\drturnoultimo\drturno\horarios.cpp
+	<iostream>
+	<cstring>
+	"Horarios.h"
+
+1719535320 source:c:\users\win10\downloads\drturnoultimo\drturno\horariosarchivo.cpp
+	"HorariosArchivo.h"
+	<cstdio>
+
+1719364836 source:c:\users\win10\downloads\drturnoultimo\drturno\main.cpp
+	<iostream>
+	<cstring>
+	<cctype>
+	<windows.h>
+	<cstdlib>
+	"Paciente.h"
+	"PacienteManager.h"
+	"Globales.h"
+	"PacienteArchivo.h"
+	"Administrador.h"
+
+1719180627 source:c:\users\win10\downloads\drturnoultimo\drturno\paciente.cpp
+	<cstring>
+	<iostream>
+	<regex>
+	"Paciente.h"
+
+1719174149 source:c:\users\win10\downloads\drturnoultimo\drturno\pacientearchivo.cpp
+	"PacienteArchivo.h"
+	<cstdio>
+
+1719885501 source:c:\users\win10\downloads\drturnoultimo\drturno\pacientemanager.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<limits>
+	<utility>
+	"Globales.h"
+	"PacienteManager.h"
+	"Paciente.h"
+	"PacienteArchivo.h"
+	"ProfesionalArchivo.h"
+	"profesional.h"
+
+1719542156 source:c:\users\win10\downloads\drturnoultimo\drturno\profesional.cpp
+	<iostream>
+	<cstring>
+	"profesional.h"
+	"Globales.h"
+
+1719880422 source:c:\users\win10\downloads\drturnoultimo\drturno\profesionalarchivo.cpp
+	"ProfesionalArchivo.h"
+	<cstdio>
+
+1719885501 source:c:\users\win10\downloads\drturnoultimo\drturno\usuario.cpp
+	"Usuario.h"
+	<cstring>
+	<iostream>
+
+1720119380 source:c:\users\win10\downloads\drturnoultimo\drturno\turnos.cpp
+	<iostream>
+	<cstring>
+	<string>
+	"Turnos.h"
+	"Fecha.h"
+
+1720119364 c:\users\win10\downloads\drturnoultimo\drturno\turnos.h
+	<string>
+	"Fecha.h"
+	<cstdio>
+
+1720127360 source:c:\users\win10\downloads\drturnoultimo\drturno\turnosarchivo.cpp
+	"TurnosArchivo.h"
+	<cstdio>
+
+1720127360 c:\users\win10\downloads\drturnoultimo\drturno\turnosarchivo.h
+	<string>
+	<cstdio>
+	"Turnos.h"
+
+1719365047 source:c:\users\usuario\desktop\drturnoultimo,agregado turnos\drturno\administrador.cpp
+	"Administrador.h"
+	<cstring>
+	<iostream>
+
+1719354863 c:\users\usuario\desktop\drturnoultimo,agregado turnos\drturno\administrador.h
+	<string>
+
+1719874913 source:c:\users\usuario\desktop\drturnoultimo,agregado turnos\drturno\administradormanager.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<limits>
+	"Administrador.h"
+	"AdministradorManager.h"
+	"PacienteManager.h"
+	"PacienteArchivo.h"
+	"Paciente.h"
+	"profesional.h"
+	"ProfesionalArchivo.h"
+	"atencion.h"
+	"Globales.h"
+	"Horarios.h"
+	"HorariosArchivo.h"
+
+1719541754 c:\users\usuario\desktop\drturnoultimo,agregado turnos\drturno\administradormanager.h
+	"Administrador.h"
+	"PacienteArchivo.h"
+	"ProfesionalArchivo.h"
+
+1719174093 c:\users\usuario\desktop\drturnoultimo,agregado turnos\drturno\pacientearchivo.h
+	<string>
+	<cstdio>
+	"Paciente.h"
+
+1719180534 c:\users\usuario\desktop\drturnoultimo,agregado turnos\drturno\paciente.h
+	"Usuario.h"
+
+1719352996 c:\users\usuario\desktop\drturnoultimo,agregado turnos\drturno\usuario.h
+	<string>
+	"Fecha.h"
+
+1716327321 c:\users\usuario\desktop\drturnoultimo,agregado turnos\drturno\fecha.h
+	<string>
+
+1719880422 c:\users\usuario\desktop\drturnoultimo,agregado turnos\drturno\profesionalarchivo.h
+	<string>
+	<cstdio>
+	"Profesional.h"
+
+1719542156 c:\users\usuario\desktop\drturnoultimo,agregado turnos\drturno\profesional.h
+	<string>
+	"Usuario.h"
+
+1720139266 c:\users\usuario\desktop\drturnoultimo,agregado turnos\drturno\pacientemanager.h
+	"PacienteArchivo.h"
+
+1719500457 c:\users\usuario\desktop\drturnoultimo,agregado turnos\drturno\atencion.h
+	<string>
+
+1719874296 c:\users\usuario\desktop\drturnoultimo,agregado turnos\drturno\globales.h
+	<cstring>
+	"Paciente.h"
+	"PacienteArchivo.h"
+	"Administrador.h"
+
+1719871718 c:\users\usuario\desktop\drturnoultimo,agregado turnos\drturno\horarios.h
+
+1719535064 c:\users\usuario\desktop\drturnoultimo,agregado turnos\drturno\horariosarchivo.h
+	<string>
+	<cstdio>
+	"Horarios.h"
+
+1716327321 source:c:\users\usuario\desktop\drturnoultimo,agregado turnos\drturno\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1719874913 source:c:\users\usuario\desktop\drturnoultimo,agregado turnos\drturno\globales.cpp
+	<iostream>
+	<cstring>
+	<string>
+	<vector>
+	<utility>
+	"Globales.h"
+	"PacienteManager.h"
+	"AdministradorManager.h"
+
+1719872475 source:c:\users\usuario\desktop\drturnoultimo,agregado turnos\drturno\horarios.cpp
+	<iostream>
+	<cstring>
+	"Horarios.h"
+
+1719535320 source:c:\users\usuario\desktop\drturnoultimo,agregado turnos\drturno\horariosarchivo.cpp
+	"HorariosArchivo.h"
+	<cstdio>
+
+1719364836 source:c:\users\usuario\desktop\drturnoultimo,agregado turnos\drturno\main.cpp
+	<iostream>
+	<cstring>
+	<cctype>
+	<windows.h>
+	<cstdlib>
+	"Paciente.h"
+	"PacienteManager.h"
+	"Globales.h"
+	"PacienteArchivo.h"
+	"Administrador.h"
+
+1719180627 source:c:\users\usuario\desktop\drturnoultimo,agregado turnos\drturno\paciente.cpp
+	<cstring>
+	<iostream>
+	<regex>
+	"Paciente.h"
+
+1719174149 source:c:\users\usuario\desktop\drturnoultimo,agregado turnos\drturno\pacientearchivo.cpp
+	"PacienteArchivo.h"
+	<cstdio>
+
+1720139971 source:c:\users\usuario\desktop\drturnoultimo,agregado turnos\drturno\pacientemanager.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<limits>
+	<utility>
+	"Globales.h"
+	"PacienteManager.h"
+	"Paciente.h"
+	"PacienteArchivo.h"
+	"ProfesionalArchivo.h"
+	"profesional.h"
+	"Turnos.h"
+	"TurnosArchivo.h"
+
+1719542156 source:c:\users\usuario\desktop\drturnoultimo,agregado turnos\drturno\profesional.cpp
+	<iostream>
+	<cstring>
+	"profesional.h"
+	"Globales.h"
+
+1719880422 source:c:\users\usuario\desktop\drturnoultimo,agregado turnos\drturno\profesionalarchivo.cpp
+	"ProfesionalArchivo.h"
+	<cstdio>
+
+1720119380 source:c:\users\usuario\desktop\drturnoultimo,agregado turnos\drturno\turnos.cpp
+	<iostream>
+	<cstring>
+	<string>
+	"Turnos.h"
+	"Fecha.h"
+
+1720119364 c:\users\usuario\desktop\drturnoultimo,agregado turnos\drturno\turnos.h
+	<string>
+	"Fecha.h"
+	<cstdio>
+
+1720128134 source:c:\users\usuario\desktop\drturnoultimo,agregado turnos\drturno\turnosarchivo.cpp
+	<iostream>
+	<cstdio>
+	"TurnosArchivo.h"
+
+1720128134 c:\users\usuario\desktop\drturnoultimo,agregado turnos\drturno\turnosarchivo.h
+	<string>
+	<cstdio>
+	"Turnos.h"
+
+1719885501 source:c:\users\usuario\desktop\drturnoultimo,agregado turnos\drturno\usuario.cpp
+	"Usuario.h"
+	<cstring>
+	<iostream>
+
+1719365047 source:c:\users\jesica\desktop\ultimo\drturnoultimo,agregado turnos\drturno\administrador.cpp
+	"Administrador.h"
+	<cstring>
+	<iostream>
+
+1719354863 c:\users\jesica\desktop\ultimo\drturnoultimo,agregado turnos\drturno\administrador.h
+	<string>
+
+1721528702 source:c:\users\jesica\desktop\ultimo\drturnoultimo,agregado turnos\drturno\administradormanager.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<limits>
+	"Administrador.h"
+	"AdministradorManager.h"
+	"PacienteManager.h"
+	"PacienteArchivo.h"
+	"Paciente.h"
+	"profesional.h"
+	"ProfesionalArchivo.h"
+	"atencion.h"
+	"Globales.h"
+	"Horarios.h"
+	"HorariosArchivo.h"
+
+1719541754 c:\users\jesica\desktop\ultimo\drturnoultimo,agregado turnos\drturno\administradormanager.h
+	"Administrador.h"
+	"PacienteArchivo.h"
+	"ProfesionalArchivo.h"
+
+1719174093 c:\users\jesica\desktop\ultimo\drturnoultimo,agregado turnos\drturno\pacientearchivo.h
+	<string>
+	<cstdio>
+	"Paciente.h"
+
+1719180534 c:\users\jesica\desktop\ultimo\drturnoultimo,agregado turnos\drturno\paciente.h
+	"Usuario.h"
+
+1721342204 c:\users\jesica\desktop\ultimo\drturnoultimo,agregado turnos\drturno\usuario.h
+	<string>
+	"Fecha.h"
+
+1721095483 c:\users\jesica\desktop\ultimo\drturnoultimo,agregado turnos\drturno\fecha.h
+	<string>
+
+1720834315 c:\users\jesica\desktop\ultimo\drturnoultimo,agregado turnos\drturno\profesionalarchivo.h
+	<string>
+	<cstdio>
+	"Profesional.h"
+
+1719542156 c:\users\jesica\desktop\ultimo\drturnoultimo,agregado turnos\drturno\profesional.h
+	<string>
+	"Usuario.h"
+
+1720139266 c:\users\jesica\desktop\ultimo\drturnoultimo,agregado turnos\drturno\pacientemanager.h
+	"PacienteArchivo.h"
+
+1719500457 c:\users\jesica\desktop\ultimo\drturnoultimo,agregado turnos\drturno\atencion.h
+	<string>
+
+1719874296 c:\users\jesica\desktop\ultimo\drturnoultimo,agregado turnos\drturno\globales.h
+	<cstring>
+	"Paciente.h"
+	"PacienteArchivo.h"
+	"Administrador.h"
+
+1721326551 c:\users\jesica\desktop\ultimo\drturnoultimo,agregado turnos\drturno\horarios.h
+
+1719535064 c:\users\jesica\desktop\ultimo\drturnoultimo,agregado turnos\drturno\horariosarchivo.h
+	<string>
+	<cstdio>
+	"Horarios.h"
+
+1721359978 source:c:\users\jesica\desktop\ultimo\drturnoultimo,agregado turnos\drturno\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1719874913 source:c:\users\jesica\desktop\ultimo\drturnoultimo,agregado turnos\drturno\globales.cpp
+	<iostream>
+	<cstring>
+	<string>
+	<vector>
+	<utility>
+	"Globales.h"
+	"PacienteManager.h"
+	"AdministradorManager.h"
+
+1720743587 source:c:\users\jesica\desktop\ultimo\drturnoultimo,agregado turnos\drturno\horarios.cpp
+	<iostream>
+	<cstring>
+	"Horarios.h"
+
+1719535320 source:c:\users\jesica\desktop\ultimo\drturnoultimo,agregado turnos\drturno\horariosarchivo.cpp
+	"HorariosArchivo.h"
+	<cstdio>
+
+1721344292 source:c:\users\jesica\desktop\ultimo\drturnoultimo,agregado turnos\drturno\main.cpp
+	<iostream>
+	<cstring>
+	<cctype>
+	<windows.h>
+	<cstdlib>
+	"Paciente.h"
+	"PacienteManager.h"
+	"Globales.h"
+	"PacienteArchivo.h"
+	"Administrador.h"
+	<iostream>
+	<vector>
+	"Turnos.h"
+	"TurnosArchivo.h"
+	"Fecha.h"
+
+1719180627 source:c:\users\jesica\desktop\ultimo\drturnoultimo,agregado turnos\drturno\paciente.cpp
+	<cstring>
+	<iostream>
+	<regex>
+	"Paciente.h"
+
+1719174149 source:c:\users\jesica\desktop\ultimo\drturnoultimo,agregado turnos\drturno\pacientearchivo.cpp
+	"PacienteArchivo.h"
+	<cstdio>
+
+1721528702 source:c:\users\jesica\desktop\ultimo\drturnoultimo,agregado turnos\drturno\pacientemanager.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<limits>
+	<utility>
+	<ctime>
+	"Globales.h"
+	"PacienteManager.h"
+	"Paciente.h"
+	"PacienteArchivo.h"
+	"ProfesionalArchivo.h"
+	"profesional.h"
+	"Turnos.h"
+	"TurnosArchivo.h"
+	"Agenda.h"
+	"AgendaArchivo.h"
+	<vector>
+
+1721528702 c:\users\jesica\desktop\ultimo\drturnoultimo,agregado turnos\drturno\turnos.h
+	"Fecha.h"
+	<string>
+	<cstdio>
+
+1721523554 c:\users\jesica\desktop\ultimo\drturnoultimo,agregado turnos\drturno\turnosarchivo.h
+	<string>
+	<cstdio>
+	<vector>
+	"Turnos.h"
+
+1719542156 source:c:\users\jesica\desktop\ultimo\drturnoultimo,agregado turnos\drturno\profesional.cpp
+	<iostream>
+	<cstring>
+	"profesional.h"
+	"Globales.h"
+
+1721345377 source:c:\users\jesica\desktop\ultimo\drturnoultimo,agregado turnos\drturno\profesionalarchivo.cpp
+	"ProfesionalArchivo.h"
+	<cstdio>
+
+1721536088 source:c:\users\jesica\desktop\ultimo\drturnoultimo,agregado turnos\drturno\turnos.cpp
+	<iostream>
+	<cstring>
+	<string>
+	"Turnos.h"
+	"Fecha.h"
+
+1721527536 source:c:\users\jesica\desktop\ultimo\drturnoultimo,agregado turnos\drturno\turnosarchivo.cpp
+	"TurnosArchivo.h"
+	<iostream>
+	<cstdio>
+
+1721578532 source:c:\users\jesica\desktop\ultimo\drturnoultimo,agregado turnos\drturno\usuario.cpp
+	"Usuario.h"
+	<cstring>
+	<iostream>
+	<regex>
+
+1721342524 source:c:\users\jesica\desktop\ultimo\drturnoultimo,agregado turnos\drturno\agendaarchivo.cpp
+	"AgendaArchivo.h"
+	<iostream>
+	<cstdio>
+	<cstring>
+
+1721334019 c:\users\jesica\desktop\ultimo\drturnoultimo,agregado turnos\drturno\agendaarchivo.h
+	"Agenda.h"
+	<vector>
+
+1721351930 c:\users\jesica\desktop\ultimo\drturnoultimo,agregado turnos\drturno\agenda.h
+	<vector>
+	<map>
+	"Horarios.h"
+	"HorariosArchivo.h"
+	"Profesional.h"
+	"ProfesionalArchivo.h"
+	"Turnos.h"
+	"TurnosArchivo.h"
+
+1721528042 source:c:\users\jesica\desktop\ultimo\drturnoultimo,agregado turnos\drturno\agenda.cpp
+	<iostream>
+	<ctime>
+	<sstream>
+	<iomanip>
+	<cstring>
+	"Agenda.h"
+	"AgendaArchivo.h"
+	"Turnos.h"
+	"Fecha.h"
+
+1719365047 source:c:\users\usuario\desktop\drturno\administrador.cpp
+	"Administrador.h"
+	<cstring>
+	<iostream>
+
+1719354863 c:\users\usuario\desktop\drturno\administrador.h
+	<string>
+
+1721599257 source:c:\users\usuario\desktop\drturno\administradormanager.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<limits>
+	"Administrador.h"
+	"AdministradorManager.h"
+	"PacienteManager.h"
+	"PacienteArchivo.h"
+	"Paciente.h"
+	"profesional.h"
+	"ProfesionalArchivo.h"
+	"atencion.h"
+	"Globales.h"
+	"Horarios.h"
+	"HorariosArchivo.h"
+
+1721793236 c:\users\usuario\desktop\drturno\administradormanager.h
+	"Administrador.h"
+	"PacienteArchivo.h"
+	"ProfesionalArchivo.h"
+	"Horarios.h"
+
+1719174093 c:\users\usuario\desktop\drturno\pacientearchivo.h
+	<string>
+	<cstdio>
+	"Paciente.h"
+
+1719180534 c:\users\usuario\desktop\drturno\paciente.h
+	"Usuario.h"
+
+1721342204 c:\users\usuario\desktop\drturno\usuario.h
+	<string>
+	"Fecha.h"
+
+1721095483 c:\users\usuario\desktop\drturno\fecha.h
+	<string>
+
+1720834315 c:\users\usuario\desktop\drturno\profesionalarchivo.h
+	<string>
+	<cstdio>
+	"Profesional.h"
+
+1719542156 c:\users\usuario\desktop\drturno\profesional.h
+	<string>
+	"Usuario.h"
+
+1721789592 c:\users\usuario\desktop\drturno\pacientemanager.h
+	"PacienteArchivo.h"
+
+1719500457 c:\users\usuario\desktop\drturno\atencion.h
+	<string>
+
+1719874296 c:\users\usuario\desktop\drturno\globales.h
+	<cstring>
+	"Paciente.h"
+	"PacienteArchivo.h"
+	"Administrador.h"
+
+1721326551 c:\users\usuario\desktop\drturno\horarios.h
+
+1719535064 c:\users\usuario\desktop\drturno\horariosarchivo.h
+	<string>
+	<cstdio>
+	"Horarios.h"
+
+1721785332 source:c:\users\usuario\desktop\drturno\agenda.cpp
+	<iostream>
+	<ctime>
+	<sstream>
+	<iomanip>
+	<cstring>
+	"Agenda.h"
+	"AgendaArchivo.h"
+	"Turnos.h"
+	"Fecha.h"
+
+1721782507 c:\users\usuario\desktop\drturno\agenda.h
+	<vector>
+	<map>
+	"Horarios.h"
+	"HorariosArchivo.h"
+	"Profesional.h"
+	"ProfesionalArchivo.h"
+	"Turnos.h"
+	"TurnosArchivo.h"
+
+1721789330 c:\users\usuario\desktop\drturno\turnos.h
+	"Fecha.h"
+	<string>
+
+1721741352 c:\users\usuario\desktop\drturno\turnosarchivo.h
+	<string>
+	<cstdio>
+	<vector>
+	"Turnos.h"
+
+1721334019 c:\users\usuario\desktop\drturno\agendaarchivo.h
+	"Agenda.h"
+	<vector>
+
+1721342524 source:c:\users\usuario\desktop\drturno\agendaarchivo.cpp
+	"AgendaArchivo.h"
+	<iostream>
+	<cstdio>
+	<cstring>
+
+1721678696 source:c:\users\usuario\desktop\drturno\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1719874913 source:c:\users\usuario\desktop\drturno\globales.cpp
+	<iostream>
+	<cstring>
+	<string>
+	<vector>
+	<utility>
+	"Globales.h"
+	"PacienteManager.h"
+	"AdministradorManager.h"
+
+1720743587 source:c:\users\usuario\desktop\drturno\horarios.cpp
+	<iostream>
+	<cstring>
+	"Horarios.h"
+
+1719535320 source:c:\users\usuario\desktop\drturno\horariosarchivo.cpp
+	"HorariosArchivo.h"
+	<cstdio>
+
+1721344292 source:c:\users\usuario\desktop\drturno\main.cpp
+	<iostream>
+	<cstring>
+	<cctype>
+	<windows.h>
+	<cstdlib>
+	"Paciente.h"
+	"PacienteManager.h"
+	"Globales.h"
+	"PacienteArchivo.h"
+	"Administrador.h"
+	<iostream>
+	<vector>
+	"Turnos.h"
+	"TurnosArchivo.h"
+	"Fecha.h"
+
+1719180627 source:c:\users\usuario\desktop\drturno\paciente.cpp
+	<cstring>
+	<iostream>
+	<regex>
+	"Paciente.h"
+
+1719174149 source:c:\users\usuario\desktop\drturno\pacientearchivo.cpp
+	"PacienteArchivo.h"
+	<cstdio>
+
+1721790171 source:c:\users\usuario\desktop\drturno\pacientemanager.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<limits>
+	<utility>
+	<ctime>
+	"Globales.h"
+	"PacienteManager.h"
+	"Paciente.h"
+	"PacienteArchivo.h"
+	"ProfesionalArchivo.h"
+	"profesional.h"
+	"Turnos.h"
+	"TurnosArchivo.h"
+	"Agenda.h"
+	"AgendaArchivo.h"
+	<vector>
+
+1721679212 source:c:\users\usuario\desktop\drturno\profesional.cpp
+	<iostream>
+	<cstring>
+	"profesional.h"
+	"Globales.h"
+
+1721345377 source:c:\users\usuario\desktop\drturno\profesionalarchivo.cpp
+	"ProfesionalArchivo.h"
+	<cstdio>
+
+1721789330 source:c:\users\usuario\desktop\drturno\turnos.cpp
+	<iostream>
+	<cstring>
+	<string>
+	<ctime>
+	"Turnos.h"
+	"TurnosArchivo.h"
+	"Fecha.h"
+	"ProfesionalArchivo.h"
+	"profesional.h"
+
+1721741352 source:c:\users\usuario\desktop\drturno\turnosarchivo.cpp
+	"TurnosArchivo.h"
+	<iostream>
+	<cstdio>
+
+1721678969 source:c:\users\usuario\desktop\drturno\usuario.cpp
+	"Usuario.h"
+	<cstring>
+	<iostream>
+	<algorithm>
+	<limits>
+	<string>
+	<stdexcept>
+	<ctime>
+
+1719365047 source:c:\users\jesica\desktop\drturnovalidaciones\drturno\administrador.cpp
+	"Administrador.h"
+	<cstring>
+	<iostream>
+
+1719354863 c:\users\jesica\desktop\drturnovalidaciones\drturno\administrador.h
+	<string>
+
+1721599257 source:c:\users\jesica\desktop\drturnovalidaciones\drturno\administradormanager.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<limits>
+	"Administrador.h"
+	"AdministradorManager.h"
+	"PacienteManager.h"
+	"PacienteArchivo.h"
+	"Paciente.h"
+	"profesional.h"
+	"ProfesionalArchivo.h"
+	"atencion.h"
+	"Globales.h"
+	"Horarios.h"
+	"HorariosArchivo.h"
+
+1719541754 c:\users\jesica\desktop\drturnovalidaciones\drturno\administradormanager.h
+	"Administrador.h"
+	"PacienteArchivo.h"
+	"ProfesionalArchivo.h"
+
+1719174093 c:\users\jesica\desktop\drturnovalidaciones\drturno\pacientearchivo.h
+	<string>
+	<cstdio>
+	"Paciente.h"
+
+1719180534 c:\users\jesica\desktop\drturnovalidaciones\drturno\paciente.h
+	"Usuario.h"
+
+1721342204 c:\users\jesica\desktop\drturnovalidaciones\drturno\usuario.h
+	<string>
+	"Fecha.h"
+
+1721095483 c:\users\jesica\desktop\drturnovalidaciones\drturno\fecha.h
+	<string>
+
+1720834315 c:\users\jesica\desktop\drturnovalidaciones\drturno\profesionalarchivo.h
+	<string>
+	<cstdio>
+	"Profesional.h"
+
+1719542156 c:\users\jesica\desktop\drturnovalidaciones\drturno\profesional.h
+	<string>
+	"Usuario.h"
+
+1720139266 c:\users\jesica\desktop\drturnovalidaciones\drturno\pacientemanager.h
+	"PacienteArchivo.h"
+
+1719500457 c:\users\jesica\desktop\drturnovalidaciones\drturno\atencion.h
+	<string>
+
+1719874296 c:\users\jesica\desktop\drturnovalidaciones\drturno\globales.h
+	<cstring>
+	"Paciente.h"
+	"PacienteArchivo.h"
+	"Administrador.h"
+
+1721326551 c:\users\jesica\desktop\drturnovalidaciones\drturno\horarios.h
+
+1719535064 c:\users\jesica\desktop\drturnovalidaciones\drturno\horariosarchivo.h
+	<string>
+	<cstdio>
+	"Horarios.h"
+
+1721744991 source:c:\users\jesica\desktop\drturnovalidaciones\drturno\agenda.cpp
+	<iostream>
+	<ctime>
+	<sstream>
+	<iomanip>
+	<cstring>
+	"Agenda.h"
+	"AgendaArchivo.h"
+	"Turnos.h"
+	"Fecha.h"
+
+1721742977 c:\users\jesica\desktop\drturnovalidaciones\drturno\agenda.h
+	<vector>
+	<map>
+	"Horarios.h"
+	"HorariosArchivo.h"
+	"Profesional.h"
+	"ProfesionalArchivo.h"
+	"Turnos.h"
+	"TurnosArchivo.h"
+
+1721682810 c:\users\jesica\desktop\drturnovalidaciones\drturno\turnos.h
+	"Fecha.h"
+	<string>
+	<cstdio>
+
+1721741352 c:\users\jesica\desktop\drturnovalidaciones\drturno\turnosarchivo.h
+	<string>
+	<cstdio>
+	<vector>
+	"Turnos.h"
+
+1721334019 c:\users\jesica\desktop\drturnovalidaciones\drturno\agendaarchivo.h
+	"Agenda.h"
+	<vector>
+
+1721342524 source:c:\users\jesica\desktop\drturnovalidaciones\drturno\agendaarchivo.cpp
+	"AgendaArchivo.h"
+	<iostream>
+	<cstdio>
+	<cstring>
+
+1721678696 source:c:\users\jesica\desktop\drturnovalidaciones\drturno\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1719874913 source:c:\users\jesica\desktop\drturnovalidaciones\drturno\globales.cpp
+	<iostream>
+	<cstring>
+	<string>
+	<vector>
+	<utility>
+	"Globales.h"
+	"PacienteManager.h"
+	"AdministradorManager.h"
+
+1720743587 source:c:\users\jesica\desktop\drturnovalidaciones\drturno\horarios.cpp
+	<iostream>
+	<cstring>
+	"Horarios.h"
+
+1719535320 source:c:\users\jesica\desktop\drturnovalidaciones\drturno\horariosarchivo.cpp
+	"HorariosArchivo.h"
+	<cstdio>
+
+1721344292 source:c:\users\jesica\desktop\drturnovalidaciones\drturno\main.cpp
+	<iostream>
+	<cstring>
+	<cctype>
+	<windows.h>
+	<cstdlib>
+	"Paciente.h"
+	"PacienteManager.h"
+	"Globales.h"
+	"PacienteArchivo.h"
+	"Administrador.h"
+	<iostream>
+	<vector>
+	"Turnos.h"
+	"TurnosArchivo.h"
+	"Fecha.h"
+
+1719180627 source:c:\users\jesica\desktop\drturnovalidaciones\drturno\paciente.cpp
+	<cstring>
+	<iostream>
+	<regex>
+	"Paciente.h"
+
+1719174149 source:c:\users\jesica\desktop\drturnovalidaciones\drturno\pacientearchivo.cpp
+	"PacienteArchivo.h"
+	<cstdio>
+
+1721745482 source:c:\users\jesica\desktop\drturnovalidaciones\drturno\pacientemanager.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<limits>
+	<utility>
+	<ctime>
+	"Globales.h"
+	"PacienteManager.h"
+	"Paciente.h"
+	"PacienteArchivo.h"
+	"ProfesionalArchivo.h"
+	"profesional.h"
+	"Turnos.h"
+	"TurnosArchivo.h"
+	"Agenda.h"
+	"AgendaArchivo.h"
+	<vector>
+
+1721679212 source:c:\users\jesica\desktop\drturnovalidaciones\drturno\profesional.cpp
+	<iostream>
+	<cstring>
+	"profesional.h"
+	"Globales.h"
+
+1721345377 source:c:\users\jesica\desktop\drturnovalidaciones\drturno\profesionalarchivo.cpp
+	"ProfesionalArchivo.h"
+	<cstdio>
+
+1721685277 source:c:\users\jesica\desktop\drturnovalidaciones\drturno\turnos.cpp
+	<iostream>
+	<cstring>
+	<string>
+	"Turnos.h"
+	"Fecha.h"
+
+1721741352 source:c:\users\jesica\desktop\drturnovalidaciones\drturno\turnosarchivo.cpp
+	"TurnosArchivo.h"
+	<iostream>
+	<cstdio>
+
+1721678969 source:c:\users\jesica\desktop\drturnovalidaciones\drturno\usuario.cpp
+	"Usuario.h"
+	<cstring>
+	<iostream>
+	<algorithm>
+	<limits>
+	<string>
+	<stdexcept>
+	<ctime>
+
+1719365047 source:c:\users\win10\downloads\drturnopostzoom\drturno\administrador.cpp
+	"Administrador.h"
+	<cstring>
+	<iostream>
+
+1719354863 c:\users\win10\downloads\drturnopostzoom\drturno\administrador.h
+	<string>
+
+1721599257 source:c:\users\win10\downloads\drturnopostzoom\drturno\administradormanager.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<limits>
+	"Administrador.h"
+	"AdministradorManager.h"
+	"PacienteManager.h"
+	"PacienteArchivo.h"
+	"Paciente.h"
+	"profesional.h"
+	"ProfesionalArchivo.h"
+	"atencion.h"
+	"Globales.h"
+	"Horarios.h"
+	"HorariosArchivo.h"
+
+1719541754 c:\users\win10\downloads\drturnopostzoom\drturno\administradormanager.h
+	"Administrador.h"
+	"PacienteArchivo.h"
+	"ProfesionalArchivo.h"
+
+1719174093 c:\users\win10\downloads\drturnopostzoom\drturno\pacientearchivo.h
+	<string>
+	<cstdio>
+	"Paciente.h"
+
+1719180534 c:\users\win10\downloads\drturnopostzoom\drturno\paciente.h
+	"Usuario.h"
+
+1721342204 c:\users\win10\downloads\drturnopostzoom\drturno\usuario.h
+	<string>
+	"Fecha.h"
+
+1721095483 c:\users\win10\downloads\drturnopostzoom\drturno\fecha.h
+	<string>
+
+1720834315 c:\users\win10\downloads\drturnopostzoom\drturno\profesionalarchivo.h
+	<string>
+	<cstdio>
+	"Profesional.h"
+
+1719542156 c:\users\win10\downloads\drturnopostzoom\drturno\profesional.h
+	<string>
+	"Usuario.h"
+
+1720139266 c:\users\win10\downloads\drturnopostzoom\drturno\pacientemanager.h
+	"PacienteArchivo.h"
+
+1719500457 c:\users\win10\downloads\drturnopostzoom\drturno\atencion.h
+	<string>
+
+1719874296 c:\users\win10\downloads\drturnopostzoom\drturno\globales.h
+	<cstring>
+	"Paciente.h"
+	"PacienteArchivo.h"
+	"Administrador.h"
+
+1721326551 c:\users\win10\downloads\drturnopostzoom\drturno\horarios.h
+
+1719535064 c:\users\win10\downloads\drturnopostzoom\drturno\horariosarchivo.h
+	<string>
+	<cstdio>
+	"Horarios.h"
+
+1721678696 source:c:\users\win10\downloads\drturnopostzoom\drturno\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1719874913 source:c:\users\win10\downloads\drturnopostzoom\drturno\globales.cpp
+	<iostream>
+	<cstring>
+	<string>
+	<vector>
+	<utility>
+	"Globales.h"
+	"PacienteManager.h"
+	"AdministradorManager.h"
+
+1720743587 source:c:\users\win10\downloads\drturnopostzoom\drturno\horarios.cpp
+	<iostream>
+	<cstring>
+	"Horarios.h"
+
+1719535320 source:c:\users\win10\downloads\drturnopostzoom\drturno\horariosarchivo.cpp
+	"HorariosArchivo.h"
+	<cstdio>
+
+1721344292 source:c:\users\win10\downloads\drturnopostzoom\drturno\main.cpp
+	<iostream>
+	<cstring>
+	<cctype>
+	<windows.h>
+	<cstdlib>
+	"Paciente.h"
+	"PacienteManager.h"
+	"Globales.h"
+	"PacienteArchivo.h"
+	"Administrador.h"
+	<iostream>
+	<vector>
+	"Turnos.h"
+	"TurnosArchivo.h"
+	"Fecha.h"
+
+1721753250 c:\users\win10\downloads\drturnopostzoom\drturno\turnos.h
+	"Fecha.h"
+	<string>
+	<cstdio>
+
+1721741352 c:\users\win10\downloads\drturnopostzoom\drturno\turnosarchivo.h
+	<string>
+	<cstdio>
+	<vector>
+	"Turnos.h"
+
+1719180627 source:c:\users\win10\downloads\drturnopostzoom\drturno\paciente.cpp
+	<cstring>
+	<iostream>
+	<regex>
+	"Paciente.h"
+
+1719174149 source:c:\users\win10\downloads\drturnopostzoom\drturno\pacientearchivo.cpp
+	"PacienteArchivo.h"
+	<cstdio>
+
+1721679212 source:c:\users\win10\downloads\drturnopostzoom\drturno\profesional.cpp
+	<iostream>
+	<cstring>
+	"profesional.h"
+	"Globales.h"
+
+1721345377 source:c:\users\win10\downloads\drturnopostzoom\drturno\profesionalarchivo.cpp
+	"ProfesionalArchivo.h"
+	<cstdio>
+
+1721741352 source:c:\users\win10\downloads\drturnopostzoom\drturno\turnosarchivo.cpp
+	"TurnosArchivo.h"
+	<iostream>
+	<cstdio>
+
+1721678969 source:c:\users\win10\downloads\drturnopostzoom\drturno\usuario.cpp
+	"Usuario.h"
+	<cstring>
+	<iostream>
+	<algorithm>
+	<limits>
+	<string>
+	<stdexcept>
+	<ctime>
+
+1721768895 source:c:\users\win10\downloads\drturnopostzoom\drturno\agenda.cpp
+	<iostream>
+	<ctime>
+	<sstream>
+	<iomanip>
+	<cstring>
+	"Agenda.h"
+	"AgendaArchivo.h"
+	"Turnos.h"
+	"Fecha.h"
+
+1721764342 c:\users\win10\downloads\drturnopostzoom\drturno\agenda.h
+	<vector>
+	<map>
+	"Horarios.h"
+	"HorariosArchivo.h"
+	"Profesional.h"
+	"ProfesionalArchivo.h"
+	"Turnos.h"
+	"TurnosArchivo.h"
+
+1721334019 c:\users\win10\downloads\drturnopostzoom\drturno\agendaarchivo.h
+	"Agenda.h"
+	<vector>
+
+1721766145 source:c:\users\win10\downloads\drturnopostzoom\drturno\pacientemanager.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<limits>
+	<utility>
+	<ctime>
+	"Globales.h"
+	"PacienteManager.h"
+	"Paciente.h"
+	"PacienteArchivo.h"
+	"ProfesionalArchivo.h"
+	"profesional.h"
+	"Turnos.h"
+	"TurnosArchivo.h"
+	"Agenda.h"
+	"AgendaArchivo.h"
+	<vector>
+
+1721752861 source:c:\users\win10\downloads\drturnopostzoom\drturno\turnos.cpp
+	<iostream>
+	<cstring>
+	<string>
+	"Turnos.h"
+	"Fecha.h"
+
+1719365047 source:c:\users\jesica\desktop\drturnopostzoom\drturno\administrador.cpp
+	"Administrador.h"
+	<cstring>
+	<iostream>
+
+1719354863 c:\users\jesica\desktop\drturnopostzoom\drturno\administrador.h
+	<string>
+
+1721599257 source:c:\users\jesica\desktop\drturnopostzoom\drturno\administradormanager.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<limits>
+	"Administrador.h"
+	"AdministradorManager.h"
+	"PacienteManager.h"
+	"PacienteArchivo.h"
+	"Paciente.h"
+	"profesional.h"
+	"ProfesionalArchivo.h"
+	"atencion.h"
+	"Globales.h"
+	"Horarios.h"
+	"HorariosArchivo.h"
+
+1719541754 c:\users\jesica\desktop\drturnopostzoom\drturno\administradormanager.h
+	"Administrador.h"
+	"PacienteArchivo.h"
+	"ProfesionalArchivo.h"
+
+1719174093 c:\users\jesica\desktop\drturnopostzoom\drturno\pacientearchivo.h
+	<string>
+	<cstdio>
+	"Paciente.h"
+
+1719180534 c:\users\jesica\desktop\drturnopostzoom\drturno\paciente.h
+	"Usuario.h"
+
+1721342204 c:\users\jesica\desktop\drturnopostzoom\drturno\usuario.h
+	<string>
+	"Fecha.h"
+
+1721095483 c:\users\jesica\desktop\drturnopostzoom\drturno\fecha.h
+	<string>
+
+1720834315 c:\users\jesica\desktop\drturnopostzoom\drturno\profesionalarchivo.h
+	<string>
+	<cstdio>
+	"Profesional.h"
+
+1719542156 c:\users\jesica\desktop\drturnopostzoom\drturno\profesional.h
+	<string>
+	"Usuario.h"
+
+1721789592 c:\users\jesica\desktop\drturnopostzoom\drturno\pacientemanager.h
+	"PacienteArchivo.h"
+
+1719500457 c:\users\jesica\desktop\drturnopostzoom\drturno\atencion.h
+	<string>
+
+1719874296 c:\users\jesica\desktop\drturnopostzoom\drturno\globales.h
+	<cstring>
+	"Paciente.h"
+	"PacienteArchivo.h"
+	"Administrador.h"
+
+1721326551 c:\users\jesica\desktop\drturnopostzoom\drturno\horarios.h
+
+1719535064 c:\users\jesica\desktop\drturnopostzoom\drturno\horariosarchivo.h
+	<string>
+	<cstdio>
+	"Horarios.h"
+
+1721678696 source:c:\users\jesica\desktop\drturnopostzoom\drturno\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1719874913 source:c:\users\jesica\desktop\drturnopostzoom\drturno\globales.cpp
+	<iostream>
+	<cstring>
+	<string>
+	<vector>
+	<utility>
+	"Globales.h"
+	"PacienteManager.h"
+	"AdministradorManager.h"
+
+1720743587 source:c:\users\jesica\desktop\drturnopostzoom\drturno\horarios.cpp
+	<iostream>
+	<cstring>
+	"Horarios.h"
+
+1719535320 source:c:\users\jesica\desktop\drturnopostzoom\drturno\horariosarchivo.cpp
+	"HorariosArchivo.h"
+	<cstdio>
+
+1721344292 source:c:\users\jesica\desktop\drturnopostzoom\drturno\main.cpp
+	<iostream>
+	<cstring>
+	<cctype>
+	<windows.h>
+	<cstdlib>
+	"Paciente.h"
+	"PacienteManager.h"
+	"Globales.h"
+	"PacienteArchivo.h"
+	"Administrador.h"
+	<iostream>
+	<vector>
+	"Turnos.h"
+	"TurnosArchivo.h"
+	"Fecha.h"
+
+1721789330 c:\users\jesica\desktop\drturnopostzoom\drturno\turnos.h
+	"Fecha.h"
+	<string>
+
+1721741352 c:\users\jesica\desktop\drturnopostzoom\drturno\turnosarchivo.h
+	<string>
+	<cstdio>
+	<vector>
+	"Turnos.h"
+
+1719180627 source:c:\users\jesica\desktop\drturnopostzoom\drturno\paciente.cpp
+	<cstring>
+	<iostream>
+	<regex>
+	"Paciente.h"
+
+1719174149 source:c:\users\jesica\desktop\drturnopostzoom\drturno\pacientearchivo.cpp
+	"PacienteArchivo.h"
+	<cstdio>
+
+1721790171 source:c:\users\jesica\desktop\drturnopostzoom\drturno\pacientemanager.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<limits>
+	<utility>
+	<ctime>
+	"Globales.h"
+	"PacienteManager.h"
+	"Paciente.h"
+	"PacienteArchivo.h"
+	"ProfesionalArchivo.h"
+	"profesional.h"
+	"Turnos.h"
+	"TurnosArchivo.h"
+	"Agenda.h"
+	"AgendaArchivo.h"
+	<vector>
+
+1721782507 c:\users\jesica\desktop\drturnopostzoom\drturno\agenda.h
+	<vector>
+	<map>
+	"Horarios.h"
+	"HorariosArchivo.h"
+	"Profesional.h"
+	"ProfesionalArchivo.h"
+	"Turnos.h"
+	"TurnosArchivo.h"
+
+1721334019 c:\users\jesica\desktop\drturnopostzoom\drturno\agendaarchivo.h
+	"Agenda.h"
+	<vector>
+
+1721679212 source:c:\users\jesica\desktop\drturnopostzoom\drturno\profesional.cpp
+	<iostream>
+	<cstring>
+	"profesional.h"
+	"Globales.h"
+
+1721345377 source:c:\users\jesica\desktop\drturnopostzoom\drturno\profesionalarchivo.cpp
+	"ProfesionalArchivo.h"
+	<cstdio>
+
+1721789330 source:c:\users\jesica\desktop\drturnopostzoom\drturno\turnos.cpp
+	<iostream>
+	<cstring>
+	<string>
+	<ctime>
+	"Turnos.h"
+	"TurnosArchivo.h"
+	"Fecha.h"
+	"ProfesionalArchivo.h"
+	"profesional.h"
+
+1721741352 source:c:\users\jesica\desktop\drturnopostzoom\drturno\turnosarchivo.cpp
+	"TurnosArchivo.h"
+	<iostream>
+	<cstdio>
+
+1721678969 source:c:\users\jesica\desktop\drturnopostzoom\drturno\usuario.cpp
+	"Usuario.h"
+	<cstring>
+	<iostream>
+	<algorithm>
+	<limits>
+	<string>
+	<stdexcept>
+	<ctime>
+
+1721785332 source:c:\users\jesica\desktop\drturnopostzoom\drturno\agenda.cpp
+	<iostream>
+	<ctime>
+	<sstream>
+	<iomanip>
+	<cstring>
+	"Agenda.h"
+	"AgendaArchivo.h"
+	"Turnos.h"
+	"Fecha.h"
+
+1719365047 source:c:\users\win10\downloads\drturno_24_7\drturno\administrador.cpp
+	"Administrador.h"
+	<cstring>
+	<iostream>
+
+1719354863 c:\users\win10\downloads\drturno_24_7\drturno\administrador.h
+	<string>
+
+1721678696 source:c:\users\win10\downloads\drturno_24_7\drturno\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1721095483 c:\users\win10\downloads\drturno_24_7\drturno\fecha.h
+	<string>
+
+1719874913 source:c:\users\win10\downloads\drturno_24_7\drturno\globales.cpp
+	<iostream>
+	<cstring>
+	<string>
+	<vector>
+	<utility>
+	"Globales.h"
+	"PacienteManager.h"
+	"AdministradorManager.h"
+
+1719874296 c:\users\win10\downloads\drturno_24_7\drturno\globales.h
+	<cstring>
+	"Paciente.h"
+	"PacienteArchivo.h"
+	"Administrador.h"
+
+1719180534 c:\users\win10\downloads\drturno_24_7\drturno\paciente.h
+	"Usuario.h"
+
+1721342204 c:\users\win10\downloads\drturno_24_7\drturno\usuario.h
+	<string>
+	"Fecha.h"
+
+1719174093 c:\users\win10\downloads\drturno_24_7\drturno\pacientearchivo.h
+	<string>
+	<cstdio>
+	"Paciente.h"
+
+1721789592 c:\users\win10\downloads\drturno_24_7\drturno\pacientemanager.h
+	"PacienteArchivo.h"
+
+1721837990 c:\users\win10\downloads\drturno_24_7\drturno\administradormanager.h
+	"Administrador.h"
+	"PacienteArchivo.h"
+	"ProfesionalArchivo.h"
+	"Horarios.h"
+
+1720834315 c:\users\win10\downloads\drturno_24_7\drturno\profesionalarchivo.h
+	<string>
+	<cstdio>
+	"Profesional.h"
+
+1719542156 c:\users\win10\downloads\drturno_24_7\drturno\profesional.h
+	<string>
+	"Usuario.h"
+
+1721326551 c:\users\win10\downloads\drturno_24_7\drturno\horarios.h
+
+1720743587 source:c:\users\win10\downloads\drturno_24_7\drturno\horarios.cpp
+	<iostream>
+	<cstring>
+	"Horarios.h"
+
+1719535320 source:c:\users\win10\downloads\drturno_24_7\drturno\horariosarchivo.cpp
+	"HorariosArchivo.h"
+	<cstdio>
+
+1719535064 c:\users\win10\downloads\drturno_24_7\drturno\horariosarchivo.h
+	<string>
+	<cstdio>
+	"Horarios.h"
+
+1721344292 source:c:\users\win10\downloads\drturno_24_7\drturno\main.cpp
+	<iostream>
+	<cstring>
+	<cctype>
+	<windows.h>
+	<cstdlib>
+	"Paciente.h"
+	"PacienteManager.h"
+	"Globales.h"
+	"PacienteArchivo.h"
+	"Administrador.h"
+	<iostream>
+	<vector>
+	"Turnos.h"
+	"TurnosArchivo.h"
+	"Fecha.h"
+
+1721789330 c:\users\win10\downloads\drturno_24_7\drturno\turnos.h
+	"Fecha.h"
+	<string>
+
+1721841625 c:\users\win10\downloads\drturno_24_7\drturno\turnosarchivo.h
+	<string>
+	<cstdio>
+	<vector>
+	"Turnos.h"
+
+1719180627 source:c:\users\win10\downloads\drturno_24_7\drturno\paciente.cpp
+	<cstring>
+	<iostream>
+	<regex>
+	"Paciente.h"
+
+1719174149 source:c:\users\win10\downloads\drturno_24_7\drturno\pacientearchivo.cpp
+	"PacienteArchivo.h"
+	<cstdio>
+
+1721790171 source:c:\users\win10\downloads\drturno_24_7\drturno\pacientemanager.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<limits>
+	<utility>
+	<ctime>
+	"Globales.h"
+	"PacienteManager.h"
+	"Paciente.h"
+	"PacienteArchivo.h"
+	"ProfesionalArchivo.h"
+	"profesional.h"
+	"Turnos.h"
+	"TurnosArchivo.h"
+	"Agenda.h"
+	"AgendaArchivo.h"
+	<vector>
+
+1721840947 c:\users\win10\downloads\drturno_24_7\drturno\agenda.h
+	<vector>
+	<map>
+	"Horarios.h"
+	"HorariosArchivo.h"
+	"Profesional.h"
+	"ProfesionalArchivo.h"
+	"Turnos.h"
+	"TurnosArchivo.h"
+
+1721334019 c:\users\win10\downloads\drturno_24_7\drturno\agendaarchivo.h
+	"Agenda.h"
+	<vector>
+
+1721679212 source:c:\users\win10\downloads\drturno_24_7\drturno\profesional.cpp
+	<iostream>
+	<cstring>
+	"profesional.h"
+	"Globales.h"
+
+1721345377 source:c:\users\win10\downloads\drturno_24_7\drturno\profesionalarchivo.cpp
+	"ProfesionalArchivo.h"
+	<cstdio>
+
+1721789330 source:c:\users\win10\downloads\drturno_24_7\drturno\turnos.cpp
+	<iostream>
+	<cstring>
+	<string>
+	<ctime>
+	"Turnos.h"
+	"TurnosArchivo.h"
+	"Fecha.h"
+	"ProfesionalArchivo.h"
+	"profesional.h"
+
+1721841570 source:c:\users\win10\downloads\drturno_24_7\drturno\turnosarchivo.cpp
+	"TurnosArchivo.h"
+	<iostream>
+	<cstdio>
+
+1721678969 source:c:\users\win10\downloads\drturno_24_7\drturno\usuario.cpp
+	"Usuario.h"
+	<cstring>
+	<iostream>
+	<algorithm>
+	<limits>
+	<string>
+	<stdexcept>
+	<ctime>
+
+1721841570 source:c:\users\win10\downloads\drturno_24_7\drturno\agenda.cpp
+	<iostream>
+	<ctime>
+	<sstream>
+	<iomanip>
+	<cstring>
+	"Agenda.h"
+	"AgendaArchivo.h"
+	"Turnos.h"
+	"Fecha.h"
+
+1721841011 source:c:\users\win10\downloads\drturno_24_7\drturno\administradormanager.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<limits>
+	"Administrador.h"
+	"AdministradorManager.h"
+	"PacienteManager.h"
+	"PacienteArchivo.h"
+	"Paciente.h"
+	"profesional.h"
+	"ProfesionalArchivo.h"
+	"atencion.h"
+	"Globales.h"
+	"Horarios.h"
+	"HorariosArchivo.h"
+	"Agenda.h"
+
+1719500457 c:\users\win10\downloads\drturno_24_7\drturno\atencion.h
+	<string>
+
+1719365047 source:c:\users\jesica\desktop\drturno_24_7\drturno\administrador.cpp
+	"Administrador.h"
+	<cstring>
+	<iostream>
+
+1719354863 c:\users\jesica\desktop\drturno_24_7\drturno\administrador.h
+	<string>
+
+1721678696 source:c:\users\jesica\desktop\drturno_24_7\drturno\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1721095483 c:\users\jesica\desktop\drturno_24_7\drturno\fecha.h
+	<string>
+
+1721846049 source:c:\users\jesica\desktop\drturno_24_7\drturno\globales.cpp
+	<iostream>
+	<cstring>
+	<string>
+	<vector>
+	<utility>
+	"Globales.h"
+	"PacienteManager.h"
+	"AdministradorManager.h"
+
+1721846049 c:\users\jesica\desktop\drturno_24_7\drturno\globales.h
+	<cstring>
+	"Paciente.h"
+	"PacienteArchivo.h"
+	"Administrador.h"
+
+1719180534 c:\users\jesica\desktop\drturno_24_7\drturno\paciente.h
+	"Usuario.h"
+
+1721342204 c:\users\jesica\desktop\drturno_24_7\drturno\usuario.h
+	<string>
+	"Fecha.h"
+
+1719174093 c:\users\jesica\desktop\drturno_24_7\drturno\pacientearchivo.h
+	<string>
+	<cstdio>
+	"Paciente.h"
+
+1721789592 c:\users\jesica\desktop\drturno_24_7\drturno\pacientemanager.h
+	"PacienteArchivo.h"
+
+1721860307 c:\users\jesica\desktop\drturno_24_7\drturno\administradormanager.h
+	"Administrador.h"
+	"PacienteArchivo.h"
+	"ProfesionalArchivo.h"
+	"Horarios.h"
+
+1720834315 c:\users\jesica\desktop\drturno_24_7\drturno\profesionalarchivo.h
+	<string>
+	<cstdio>
+	"Profesional.h"
+
+1719542156 c:\users\jesica\desktop\drturno_24_7\drturno\profesional.h
+	<string>
+	"Usuario.h"
+
+1721326551 c:\users\jesica\desktop\drturno_24_7\drturno\horarios.h
+
+1721859470 source:c:\users\jesica\desktop\drturno_24_7\drturno\horarios.cpp
+	<iostream>
+	<cstring>
+	"Horarios.h"
+
+1719535320 source:c:\users\jesica\desktop\drturno_24_7\drturno\horariosarchivo.cpp
+	"HorariosArchivo.h"
+	<cstdio>
+
+1719535064 c:\users\jesica\desktop\drturno_24_7\drturno\horariosarchivo.h
+	<string>
+	<cstdio>
+	"Horarios.h"
+
+1721344292 source:c:\users\jesica\desktop\drturno_24_7\drturno\main.cpp
+	<iostream>
+	<cstring>
+	<cctype>
+	<windows.h>
+	<cstdlib>
+	"Paciente.h"
+	"PacienteManager.h"
+	"Globales.h"
+	"PacienteArchivo.h"
+	"Administrador.h"
+	<iostream>
+	<vector>
+	"Turnos.h"
+	"TurnosArchivo.h"
+	"Fecha.h"
+
+1721789330 c:\users\jesica\desktop\drturno_24_7\drturno\turnos.h
+	"Fecha.h"
+	<string>
+
+1721841625 c:\users\jesica\desktop\drturno_24_7\drturno\turnosarchivo.h
+	<string>
+	<cstdio>
+	<vector>
+	"Turnos.h"
+
+1719180627 source:c:\users\jesica\desktop\drturno_24_7\drturno\paciente.cpp
+	<cstring>
+	<iostream>
+	<regex>
+	"Paciente.h"
+
+1719174149 source:c:\users\jesica\desktop\drturno_24_7\drturno\pacientearchivo.cpp
+	"PacienteArchivo.h"
+	<cstdio>
+
+1721790171 source:c:\users\jesica\desktop\drturno_24_7\drturno\pacientemanager.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<limits>
+	<utility>
+	<ctime>
+	"Globales.h"
+	"PacienteManager.h"
+	"Paciente.h"
+	"PacienteArchivo.h"
+	"ProfesionalArchivo.h"
+	"profesional.h"
+	"Turnos.h"
+	"TurnosArchivo.h"
+	"Agenda.h"
+	"AgendaArchivo.h"
+	<vector>
+
+1721855590 c:\users\jesica\desktop\drturno_24_7\drturno\agenda.h
+	<vector>
+	<map>
+	"Horarios.h"
+	"HorariosArchivo.h"
+	"Profesional.h"
+	"ProfesionalArchivo.h"
+	"Turnos.h"
+	"TurnosArchivo.h"
+
+1721334019 c:\users\jesica\desktop\drturno_24_7\drturno\agendaarchivo.h
+	"Agenda.h"
+	<vector>
+
+1721679212 source:c:\users\jesica\desktop\drturno_24_7\drturno\profesional.cpp
+	<iostream>
+	<cstring>
+	"profesional.h"
+	"Globales.h"
+
+1721345377 source:c:\users\jesica\desktop\drturno_24_7\drturno\profesionalarchivo.cpp
+	"ProfesionalArchivo.h"
+	<cstdio>
+
+1721789330 source:c:\users\jesica\desktop\drturno_24_7\drturno\turnos.cpp
+	<iostream>
+	<cstring>
+	<string>
+	<ctime>
+	"Turnos.h"
+	"TurnosArchivo.h"
+	"Fecha.h"
+	"ProfesionalArchivo.h"
+	"profesional.h"
+
+1721841570 source:c:\users\jesica\desktop\drturno_24_7\drturno\turnosarchivo.cpp
+	"TurnosArchivo.h"
+	<iostream>
+	<cstdio>
+
+1721678969 source:c:\users\jesica\desktop\drturno_24_7\drturno\usuario.cpp
+	"Usuario.h"
+	<cstring>
+	<iostream>
+	<algorithm>
+	<limits>
+	<string>
+	<stdexcept>
+	<ctime>
+
+1721863580 source:c:\users\jesica\desktop\drturno_24_7\drturno\administradormanager.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<limits>
+	<ctime>
+	"Administrador.h"
+	"AdministradorManager.h"
+	"PacienteManager.h"
+	"PacienteArchivo.h"
+	"Paciente.h"
+	"profesional.h"
+	"ProfesionalArchivo.h"
+	"atencion.h"
+	"Globales.h"
+	"Horarios.h"
+	"HorariosArchivo.h"
+	"Agenda.h"
+	"Turnos.h"
+	"TurnosArchivo.h"
+
+1719500457 c:\users\jesica\desktop\drturno_24_7\drturno\atencion.h
+	<string>
+
+1721855590 source:c:\users\jesica\desktop\drturno_24_7\drturno\agenda.cpp
+	<iostream>
+	<ctime>
+	<sstream>
+	<iomanip>
+	<cstring>
+	"Agenda.h"
+	"AgendaArchivo.h"
+	"Turnos.h"
+	"Fecha.h"
+	"Globales.h"
+
+1719365047 source:c:\users\usuario\desktop\drturno_24_77\drturno\administrador.cpp
+	"Administrador.h"
+	<cstring>
+	<iostream>
+
+1719354863 c:\users\usuario\desktop\drturno_24_77\drturno\administrador.h
+	<string>
+
+1721855590 source:c:\users\usuario\desktop\drturno_24_77\drturno\agenda.cpp
+	<iostream>
+	<ctime>
+	<sstream>
+	<iomanip>
+	<cstring>
+	"Agenda.h"
+	"AgendaArchivo.h"
+	"Turnos.h"
+	"Fecha.h"
+	"Globales.h"
+
+1721855590 c:\users\usuario\desktop\drturno_24_77\drturno\agenda.h
+	<vector>
+	<map>
+	"Horarios.h"
+	"HorariosArchivo.h"
+	"Profesional.h"
+	"ProfesionalArchivo.h"
+	"Turnos.h"
+	"TurnosArchivo.h"
+
+1721326551 c:\users\usuario\desktop\drturno_24_77\drturno\horarios.h
+
+1719535064 c:\users\usuario\desktop\drturno_24_77\drturno\horariosarchivo.h
+	<string>
+	<cstdio>
+	"Horarios.h"
+
+1719542156 c:\users\usuario\desktop\drturno_24_77\drturno\profesional.h
+	<string>
+	"Usuario.h"
+
+1721342204 c:\users\usuario\desktop\drturno_24_77\drturno\usuario.h
+	<string>
+	"Fecha.h"
+
+1721095483 c:\users\usuario\desktop\drturno_24_77\drturno\fecha.h
+	<string>
+
+1720834315 c:\users\usuario\desktop\drturno_24_77\drturno\profesionalarchivo.h
+	<string>
+	<cstdio>
+	"Profesional.h"
+
+1721789330 c:\users\usuario\desktop\drturno_24_77\drturno\turnos.h
+	"Fecha.h"
+	<string>
+
+1721841625 c:\users\usuario\desktop\drturno_24_77\drturno\turnosarchivo.h
+	<string>
+	<cstdio>
+	<vector>
+	"Turnos.h"
+
+1721334019 c:\users\usuario\desktop\drturno_24_77\drturno\agendaarchivo.h
+	"Agenda.h"
+	<vector>
+
+1721846049 c:\users\usuario\desktop\drturno_24_77\drturno\globales.h
+	<cstring>
+	"Paciente.h"
+	"PacienteArchivo.h"
+	"Administrador.h"
+
+1719180534 c:\users\usuario\desktop\drturno_24_77\drturno\paciente.h
+	"Usuario.h"
+
+1719174093 c:\users\usuario\desktop\drturno_24_77\drturno\pacientearchivo.h
+	<string>
+	<cstdio>
+	"Paciente.h"
+
+1721678696 source:c:\users\usuario\desktop\drturno_24_77\drturno\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1721846049 source:c:\users\usuario\desktop\drturno_24_77\drturno\globales.cpp
+	<iostream>
+	<cstring>
+	<string>
+	<vector>
+	<utility>
+	"Globales.h"
+	"PacienteManager.h"
+	"AdministradorManager.h"
+
+1721789592 c:\users\usuario\desktop\drturno_24_77\drturno\pacientemanager.h
+	"PacienteArchivo.h"
+
+1721865707 c:\users\usuario\desktop\drturno_24_77\drturno\administradormanager.h
+	"Administrador.h"
+	"PacienteArchivo.h"
+	"ProfesionalArchivo.h"
+	"Horarios.h"
+
+1721859470 source:c:\users\usuario\desktop\drturno_24_77\drturno\horarios.cpp
+	<iostream>
+	<cstring>
+	"Horarios.h"
+
+1719535320 source:c:\users\usuario\desktop\drturno_24_77\drturno\horariosarchivo.cpp
+	"HorariosArchivo.h"
+	<cstdio>
+
+1721344292 source:c:\users\usuario\desktop\drturno_24_77\drturno\main.cpp
+	<iostream>
+	<cstring>
+	<cctype>
+	<windows.h>
+	<cstdlib>
+	"Paciente.h"
+	"PacienteManager.h"
+	"Globales.h"
+	"PacienteArchivo.h"
+	"Administrador.h"
+	<iostream>
+	<vector>
+	"Turnos.h"
+	"TurnosArchivo.h"
+	"Fecha.h"
+
+1719180627 source:c:\users\usuario\desktop\drturno_24_77\drturno\paciente.cpp
+	<cstring>
+	<iostream>
+	<regex>
+	"Paciente.h"
+
+1719174149 source:c:\users\usuario\desktop\drturno_24_77\drturno\pacientearchivo.cpp
+	"PacienteArchivo.h"
+	<cstdio>
+
+1721790171 source:c:\users\usuario\desktop\drturno_24_77\drturno\pacientemanager.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<limits>
+	<utility>
+	<ctime>
+	"Globales.h"
+	"PacienteManager.h"
+	"Paciente.h"
+	"PacienteArchivo.h"
+	"ProfesionalArchivo.h"
+	"profesional.h"
+	"Turnos.h"
+	"TurnosArchivo.h"
+	"Agenda.h"
+	"AgendaArchivo.h"
+	<vector>
+
+1721679212 source:c:\users\usuario\desktop\drturno_24_77\drturno\profesional.cpp
+	<iostream>
+	<cstring>
+	"profesional.h"
+	"Globales.h"
+
+1721345377 source:c:\users\usuario\desktop\drturno_24_77\drturno\profesionalarchivo.cpp
+	"ProfesionalArchivo.h"
+	<cstdio>
+
+1721789330 source:c:\users\usuario\desktop\drturno_24_77\drturno\turnos.cpp
+	<iostream>
+	<cstring>
+	<string>
+	<ctime>
+	"Turnos.h"
+	"TurnosArchivo.h"
+	"Fecha.h"
+	"ProfesionalArchivo.h"
+	"profesional.h"
+
+1721841570 source:c:\users\usuario\desktop\drturno_24_77\drturno\turnosarchivo.cpp
+	"TurnosArchivo.h"
+	<iostream>
+	<cstdio>
+
+1721678969 source:c:\users\usuario\desktop\drturno_24_77\drturno\usuario.cpp
+	"Usuario.h"
+	<cstring>
+	<iostream>
+	<algorithm>
+	<limits>
+	<string>
+	<stdexcept>
+	<ctime>
+
+1721865707 source:c:\users\usuario\desktop\drturno_24_77\drturno\administradormanager.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<limits>
+	<ctime>
+	"Administrador.h"
+	"AdministradorManager.h"
+	"PacienteManager.h"
+	"PacienteArchivo.h"
+	"Paciente.h"
+	"profesional.h"
+	"ProfesionalArchivo.h"
+	"atencion.h"
+	"Globales.h"
+	"Horarios.h"
+	"HorariosArchivo.h"
+	"Agenda.h"
+	"Turnos.h"
+	"TurnosArchivo.h"
+
+1719500457 c:\users\usuario\desktop\drturno_24_77\drturno\atencion.h
+	<string>
+
+1719365047 source:c:\users\jesica\desktop\drturno_24_77\drturno\administrador.cpp
+	"Administrador.h"
+	<cstring>
+	<iostream>
+
+1719354863 c:\users\jesica\desktop\drturno_24_77\drturno\administrador.h
+	<string>
+
+1721877223 source:c:\users\jesica\desktop\drturno_24_77\drturno\administradormanager.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<limits>
+	<ctime>
+	"Administrador.h"
+	"AdministradorManager.h"
+	"PacienteManager.h"
+	"PacienteArchivo.h"
+	"Paciente.h"
+	"profesional.h"
+	"ProfesionalArchivo.h"
+	"atencion.h"
+	"Globales.h"
+	"Horarios.h"
+	"HorariosArchivo.h"
+	"Agenda.h"
+	"Turnos.h"
+	"TurnosArchivo.h"
+
+1721876591 c:\users\jesica\desktop\drturno_24_77\drturno\administradormanager.h
+	"Administrador.h"
+	"PacienteArchivo.h"
+	"ProfesionalArchivo.h"
+	"Horarios.h"
+
+1721877932 c:\users\jesica\desktop\drturno_24_77\drturno\pacientearchivo.h
+	<string>
+	<cstdio>
+	"Paciente.h"
+
+1719180534 c:\users\jesica\desktop\drturno_24_77\drturno\paciente.h
+	"Usuario.h"
+
+1721342204 c:\users\jesica\desktop\drturno_24_77\drturno\usuario.h
+	<string>
+	"Fecha.h"
+
+1721095483 c:\users\jesica\desktop\drturno_24_77\drturno\fecha.h
+	<string>
+
+1720834315 c:\users\jesica\desktop\drturno_24_77\drturno\profesionalarchivo.h
+	<string>
+	<cstdio>
+	"Profesional.h"
+
+1719542156 c:\users\jesica\desktop\drturno_24_77\drturno\profesional.h
+	<string>
+	"Usuario.h"
+
+1721326551 c:\users\jesica\desktop\drturno_24_77\drturno\horarios.h
+
+1721877855 c:\users\jesica\desktop\drturno_24_77\drturno\pacientemanager.h
+	"PacienteArchivo.h"
+
+1719500457 c:\users\jesica\desktop\drturno_24_77\drturno\atencion.h
+	<string>
+
+1721846049 c:\users\jesica\desktop\drturno_24_77\drturno\globales.h
+	<cstring>
+	"Paciente.h"
+	"PacienteArchivo.h"
+	"Administrador.h"
+
+1719535064 c:\users\jesica\desktop\drturno_24_77\drturno\horariosarchivo.h
+	<string>
+	<cstdio>
+	"Horarios.h"
+
+1721855590 c:\users\jesica\desktop\drturno_24_77\drturno\agenda.h
+	<vector>
+	<map>
+	"Horarios.h"
+	"HorariosArchivo.h"
+	"Profesional.h"
+	"ProfesionalArchivo.h"
+	"Turnos.h"
+	"TurnosArchivo.h"
+
+1721789330 c:\users\jesica\desktop\drturno_24_77\drturno\turnos.h
+	"Fecha.h"
+	<string>
+
+1721841625 c:\users\jesica\desktop\drturno_24_77\drturno\turnosarchivo.h
+	<string>
+	<cstdio>
+	<vector>
+	"Turnos.h"
+
+1721855590 source:c:\users\jesica\desktop\drturno_24_77\drturno\agenda.cpp
+	<iostream>
+	<ctime>
+	<sstream>
+	<iomanip>
+	<cstring>
+	"Agenda.h"
+	"AgendaArchivo.h"
+	"Turnos.h"
+	"Fecha.h"
+	"Globales.h"
+
+1721334019 c:\users\jesica\desktop\drturno_24_77\drturno\agendaarchivo.h
+	"Agenda.h"
+	<vector>
+
+1721678696 source:c:\users\jesica\desktop\drturno_24_77\drturno\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1721877360 source:c:\users\jesica\desktop\drturno_24_77\drturno\globales.cpp
+	<iostream>
+	<cstring>
+	<string>
+	<vector>
+	<utility>
+	"Globales.h"
+	"PacienteManager.h"
+	"AdministradorManager.h"
+
+1721859470 source:c:\users\jesica\desktop\drturno_24_77\drturno\horarios.cpp
+	<iostream>
+	<cstring>
+	"Horarios.h"
+
+1719535320 source:c:\users\jesica\desktop\drturno_24_77\drturno\horariosarchivo.cpp
+	"HorariosArchivo.h"
+	<cstdio>
+
+1721344292 source:c:\users\jesica\desktop\drturno_24_77\drturno\main.cpp
+	<iostream>
+	<cstring>
+	<cctype>
+	<windows.h>
+	<cstdlib>
+	"Paciente.h"
+	"PacienteManager.h"
+	"Globales.h"
+	"PacienteArchivo.h"
+	"Administrador.h"
+	<iostream>
+	<vector>
+	"Turnos.h"
+	"TurnosArchivo.h"
+	"Fecha.h"
+
+1719180627 source:c:\users\jesica\desktop\drturno_24_77\drturno\paciente.cpp
+	<cstring>
+	<iostream>
+	<regex>
+	"Paciente.h"
+
+1719174149 source:c:\users\jesica\desktop\drturno_24_77\drturno\pacientearchivo.cpp
+	"PacienteArchivo.h"
+	<cstdio>
+
+1721875421 source:c:\users\jesica\desktop\drturno_24_77\drturno\pacientemanager.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<limits>
+	<utility>
+	<ctime>
+	"Globales.h"
+	"PacienteManager.h"
+	"Paciente.h"
+	"PacienteArchivo.h"
+	"ProfesionalArchivo.h"
+	"profesional.h"
+	"Turnos.h"
+	"TurnosArchivo.h"
+	"Agenda.h"
+	"AgendaArchivo.h"
+	<vector>
+
+1721679212 source:c:\users\jesica\desktop\drturno_24_77\drturno\profesional.cpp
+	<iostream>
+	<cstring>
+	"profesional.h"
+	"Globales.h"
+
+1721345377 source:c:\users\jesica\desktop\drturno_24_77\drturno\profesionalarchivo.cpp
+	"ProfesionalArchivo.h"
+	<cstdio>
+
+1721789330 source:c:\users\jesica\desktop\drturno_24_77\drturno\turnos.cpp
+	<iostream>
+	<cstring>
+	<string>
+	<ctime>
+	"Turnos.h"
+	"TurnosArchivo.h"
+	"Fecha.h"
+	"ProfesionalArchivo.h"
+	"profesional.h"
+
+1721841570 source:c:\users\jesica\desktop\drturno_24_77\drturno\turnosarchivo.cpp
+	"TurnosArchivo.h"
+	<iostream>
+	<cstdio>
+
+1721874213 source:c:\users\jesica\desktop\drturno_24_77\drturno\usuario.cpp
+	"Usuario.h"
+	<cstring>
+	<iostream>
+	<algorithm>
+	<limits>
+	<string>
+	<stdexcept>
+	<ctime>
+
